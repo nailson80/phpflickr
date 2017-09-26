@@ -1,0 +1,11 @@
+{
+    "name": "znailson80/phpflickr",
+    "description": "Official PHP Flickr Client",
+    "type": "non",
+    "license": "general",
+    "authors": [
+        {
+            "name": "nailson80"
+        }
+    ]
+}
