@@ -10,4 +10,5 @@
     ],
     "autoload": {
         "psr-4": {"Flickr\\": "phpFlickr.php"}
+    }
 }
