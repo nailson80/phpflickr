@@ -7,5 +7,7 @@
         {
             "name": "nailson80"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {"Flickr\\": "phpFlickr.php"}
 }
